@@ -10,9 +10,11 @@ A how-to guide on how to caption videos on YouTube. This is information specific
 6. Publish sync'd captions, disable auto-captions
 
 ## Login to A11YChi YouTube account
-You should have received the authentication information for logging into the A11YChi YouTube account.
+You should have received the authentication information for logging into the A11YChi YouTube account. Log-in to the account.
 
 ## Download YouTube auto-captions from raw live stream video
+1. Once logged in, navigate to the **Creator's Studio**, then under the heading Creator's Studio, select **Video Manager,** **Videos**.
+2. Navigate to the desired video. Next to the **Edit button**, select the **drop-down**, and select **Subtitles/CC**. 
 
 ## Open edited YouTube video, navigate to CC/Captions
 
