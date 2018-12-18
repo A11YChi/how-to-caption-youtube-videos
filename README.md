@@ -17,7 +17,7 @@ You should have received the authentication information for logging into the A11
 2. Navigate to the desired video. Next to the **Edit button**, select the **drop-down**, and select **Subtitles/CC**. 
 ![Video in YouTube Video listing](https://github.com/A11YChi/how-to-caption-youtube-videos/blob/master/captions-select-video.png)
 3. To the right of the video 
-![Download YouTbe's Auto-Captions](https://github.com/A11YChi/how-to-caption-youtube-videos/blob/master/ccaptions-download-auto-captions.png)
+![Download YouTbe's Auto-Captions](https://github.com/A11YChi/how-to-caption-youtube-videos/blob/master/captions-download-auto-captions.png)
 
 ## Open edited YouTube video, navigate to CC/Captions
 
