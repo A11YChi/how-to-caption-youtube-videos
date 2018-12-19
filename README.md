@@ -5,9 +5,8 @@ A how-to guide on how to caption videos on YouTube. This is information specific
 1. Login to A11YChi YouTube account.
 2. Download YouTube auto-captions from raw live stream video.
 3. Open edited YouTube video, navigate to CC/Captions
-4. Create New Captions
-5. Use the raw captions to clean up and sync with edited video 
-6. Publish sync'd captions, disable auto-captions
+4. Create New Captions from Auto-Captions or Other Source
+5. Publish sync'd captions, disable auto-captions
 
 ## Login to A11YChi YouTube account
 You should have received the authentication information for logging into the A11YChi YouTube account. Log-in to the account.
@@ -30,19 +29,22 @@ You should have received the authentication information for logging into the A11
 5. The following screen presents the video, along with the auto-generated captions in edit mode. You can edit and re-sync these captions, or delete the auto generated captions, and copy/paste the captions to sync them. The following instructions provide guidance on manually copy/pasting the captions and syncing them. To remove the auto-generated captions, select the link **Remove auto-generated content**.
 ![The Remove auto-generated content link](https://github.com/A11YChi/how-to-caption-youtube-videos/blob/master/captions-create-new-delete-auto-generated-content.png)
 
-## Create New Captions
-1. Enter, or copy/paste the text for the first set of captions. 
+## Create New Captions from Auto-Captions or Other Source
+1. Manually enter, or copy/paste the caption text for the first set of captions. 
+
 ![Enter captions](https://github.com/A11YChi/how-to-caption-youtube-videos/blob/master/captions-add-captions.png)
 
 2. Select the "+" button to place it in the caption timeline.
+
 ![Enter captions](https://github.com/A11YChi/how-to-caption-youtube-videos/blob/master/captions-add-captions.png)
 
 3. In the video's caption timeline, drag the left and right handles (blue) to sync the captions with the audio. 
+
 ![Enter captions](https://github.com/A11YChi/how-to-caption-youtube-videos/blob/master/captions-sync-captions.png)
+
 Caption text should be chunked into groups of text, breaking at natural speech breaks, or once a text limit of two lines has been reached.
 
-## Use the raw captions to clean up and sync with edited video 
-
 ## Publish sync'd captions, disable auto-captions
+It is highly unlikely that you will finished captioning a 45-60+ minute video in one sitting. It's perfectly fine to Save the changes, even publishing them. You can also edit or add to them further in future visits. The auto-captions will still be the default captions, until to delete them once finished with the manual caption entering and syncing. 
 
 
