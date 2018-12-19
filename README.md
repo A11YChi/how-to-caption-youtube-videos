@@ -47,4 +47,3 @@ Caption text should be chunked into groups of text, breaking at natural speech b
 ## Publish sync'd captions, disable auto-captions
 It is highly unlikely that you will finished captioning a 45-60+ minute video in one sitting. It's perfectly fine to Save the changes, even publishing them. You can also edit or add to them further in future visits. The auto-captions will still be the default captions, until to delete them once finished with the manual caption entering and syncing. 
 
-
